@@ -18,11 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/akamazing412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akamazing412" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashwini-kumar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwini-kumar22" height="30" width="40" /></a>
-<a href="https://instagram.com/ii_ashwini_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ii_ashwini_i" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/csea32ashwini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="csea32ashwini" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akamazing412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akamazing412" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akamazing412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akamazing412" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akamazing412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akamazing412" height="30" width="40" /></a>
 </p>
 
