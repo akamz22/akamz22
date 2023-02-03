@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ashwini.kumar.2210@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1ZEllBdiy-_hnQHFv-rJR7fYjBBugV6oT/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/18Bocm62BX-TArkMf03YlhfX5WESSopue/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
 
