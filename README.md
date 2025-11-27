@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akamz22" alt="akamz22" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack E-Commerce**
+- 🔭 I’m currently working as  **Software Developer at Accenture**
 
 - 💬 Ask me about **Data Structures and Algorithms , MERN , JAVASCRIPT**
 
 - 📫 How to reach me **ashwini.kumar.2210@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/18Bocm62BX-TArkMf03YlhfX5WESSopue/view?usp=share_link)
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
